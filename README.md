@@ -32,7 +32,7 @@
         <li>🧠 <strong>IA:</strong> explorar agentes y su integración en procesos reales.</li>
         <li>🧩 <strong>Arquitectura:</strong> priorizar claridad, modularidad y documentación.</li>
       </ul>
-      <p><samp>ENFOQUE ACTUAL → construir y documentar mis próximos proyectos.</samp></p>
+      <p><samp>ENFOQUE ACTUAL → construir, probar y documentar proyectos propios.</samp></p>
     </td>
     <td width="38%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="280" alt="Ilustración animada de una persona desarrollando software" />
@@ -74,7 +74,7 @@
     </td>
     <td width="40%" valign="middle">
       <h3>Cada aporte cuenta.</h3>
-      <p>Este espacio irá creciendo con código, aprendizajes y proyectos públicos.</p>
+      <p>Comparto demos, herramientas y lo que voy aprendiendo en el camino.</p>
       <p><a href="https://github.com/erickbrucelyqc-lgtm?tab=repositories">Explorar repositorios →</a></p>
       <p><samp>CONSTRUIR · DOCUMENTAR · ITERAR</samp></p>
     </td>
@@ -91,43 +91,62 @@
 </table>
 -->
 
-<h3>04 / Próximos proyectos</h3>
-<p>Cuatro líneas de trabajo para mi futuro showcase. <strong>Proyectos aún por desarrollar.</strong></p>
-<!-- Al publicar un proyecto: enlaza su título al repositorio real, añade su captura y sustituye las etiquetas por el stack utilizado. -->
+<h3>04 / Proyectos</h3>
+<p><strong>Cosas que estoy construyendo y probando.</strong> Seis forks con una demo o herramienta propia, pruebas y una guía. Cada tarjeta lleva a mi adaptación; los proyectos originales y sus licencias se conservan.</p>
+<!-- Proyectos: cambia descripción, portada y enlaces cuando publiques una versión propia. -->
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/erickbrucelyqc-lgtm/main/web.svg" alt="01 — Desarrollo web" />
-      <h3>Experiencias web</h3>
-      <p>Espacio reservado para una aplicación centrada en usabilidad, claridad y una experiencia fluida.</p>
-      <p><code>Interfaces</code> <code>Desarrollo web</code></p>
-      <p><samp>◌ PRÓXIMAMENTE</samp></p>
+      <a href="https://github.com/erickbrucelyqc-lgtm/radar-osint"><img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/radar-osint/master/erick_cover.svg" width="100%" alt="Radar OSINT — proyecto de Erick Quio" /></a>
+      <h3><a href="https://github.com/erickbrucelyqc-lgtm/radar-osint">Radar OSINT</a></h3>
+      <p>Convierto un CSV de SpiderFoot en un reporte visual: eventos únicos, duplicados y falsos positivos.</p>
+      <p><code>Python · CSV · HTML</code></p>
+      <p><a href="https://github.com/erickbrucelyqc-lgtm/radar-osint/blob/master/ERICK_LAB.md">Ver cómo funciona →</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/erickbrucelyqc-lgtm/main/data.svg" alt="02 — Análisis de datos" />
-      <h3>De datos a decisiones</h3>
-      <p>Espacio reservado para explorar datos, visualizar hallazgos y comunicar conclusiones accionables.</p>
-      <p><code>Análisis</code> <code>Visualización</code></p>
-      <p><samp>◌ PRÓXIMAMENTE</samp></p>
+      <a href="https://github.com/erickbrucelyqc-lgtm/datos-en-claro"><img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/datos-en-claro/develop/erick_cover.svg" width="100%" alt="Datos en claro — proyecto de Erick Quio" /></a>
+      <h3><a href="https://github.com/erickbrucelyqc-lgtm/datos-en-claro">Datos en claro</a></h3>
+      <p>Subo un CSV, filtro categorías y veo totales, promedios y evolución diaria.</p>
+      <p><code>Python · Streamlit · pandas</code></p>
+      <p><a href="https://github.com/erickbrucelyqc-lgtm/datos-en-claro/blob/develop/ERICK_LAB.md">Ver cómo funciona →</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/erickbrucelyqc-lgtm/main/automation.svg" alt="03 — Automatización" />
-      <h3>Menos tareas, más valor</h3>
-      <p>Espacio reservado para automatizar procesos repetitivos e integrar herramientas en flujos útiles.</p>
-      <p><code>Workflows</code> <code>Integraciones</code></p>
-      <p><samp>◌ PRÓXIMAMENTE</samp></p>
+      <a href="https://github.com/erickbrucelyqc-lgtm/tickets-al-dia"><img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/tickets-al-dia/master/erick_cover.svg" width="100%" alt="Tickets al día — proyecto de Erick Quio" /></a>
+      <h3><a href="https://github.com/erickbrucelyqc-lgtm/tickets-al-dia">Tickets al día</a></h3>
+      <p>Ordeno tickets por prioridad con reglas claras y un resumen listo para revisar.</p>
+      <p><code>n8n · JavaScript · JSON</code></p>
+      <p><a href="https://github.com/erickbrucelyqc-lgtm/tickets-al-dia/blob/master/ERICK_LAB.md">Ver cómo funciona →</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/erickbrucelyqc-lgtm/main/agents.svg" alt="04 — Agentes de inteligencia artificial" />
-      <h3>Inteligencia en acción</h3>
-      <p>Espacio reservado para explorar agentes de IA que conecten contexto, herramientas y tareas concretas.</p>
-      <p><code>Agentes</code> <code>IA aplicada</code></p>
-      <p><samp>◌ PRÓXIMAMENTE</samp></p>
+      <a href="https://github.com/erickbrucelyqc-lgtm/contexto-ia"><img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/contexto-ia/main/erick_cover.svg" width="100%" alt="Contexto IA — proyecto de Erick Quio" /></a>
+      <h3><a href="https://github.com/erickbrucelyqc-lgtm/contexto-ia">Contexto IA</a></h3>
+      <p>Limpio y recorto el texto que recibe un agente; incluye un componente para Langflow.</p>
+      <p><code>Python · Langflow · lfx</code></p>
+      <p><a href="https://github.com/erickbrucelyqc-lgtm/contexto-ia/blob/main/ERICK_LAB.md">Ver cómo funciona →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/erickbrucelyqc-lgtm/pulso"><img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/pulso/dev/erick_cover.svg" width="100%" alt="Pulso — proyecto de Erick Quio" /></a>
+      <h3><a href="https://github.com/erickbrucelyqc-lgtm/pulso">Pulso</a></h3>
+      <p>Miro latencia y solicitudes de tres servicios de ejemplo en un panel interactivo.</p>
+      <p><code>Python · Dash · Plotly</code></p>
+      <p><a href="https://github.com/erickbrucelyqc-lgtm/pulso/blob/dev/ERICK_LAB.md">Ver cómo funciona →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/erickbrucelyqc-lgtm/revisa-fuentes"><img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/revisa-fuentes/master/erick_cover.svg" width="100%" alt="Revisa fuentes — proyecto de Erick Quio" /></a>
+      <h3><a href="https://github.com/erickbrucelyqc-lgtm/revisa-fuentes">Revisa fuentes</a></h3>
+      <p>Compruebo si una respuesta cita bien sus fuentes: referencias sueltas, enlaces raros y fuentes sin usar.</p>
+      <p><code>Python · JSON · Research</code></p>
+      <p><a href="https://github.com/erickbrucelyqc-lgtm/revisa-fuentes/blob/master/ERICK_LAB.md">Ver cómo funciona →</a></p>
     </td>
   </tr>
 </table>
+
+<p><samp>DEMOS PROPIAS · PRUEBAS LOCALES · CRÉDITO AL PROYECTO ORIGINAL</samp></p>
+
 
 ---
 
