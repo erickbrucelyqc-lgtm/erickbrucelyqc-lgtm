@@ -1,16 +1,18 @@
+<!-- Badges de Shields.io guardados en este repositorio para evitar fallos del proxy de imágenes.
+     Para actualizarlos, reemplaza los SVG conservando sus nombres. -->
 <!-- Identidad: modifica el banner, la animación y los enlaces de contacto aquí. -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:22D3EE&height=220&section=header&text=ERICK%20QUIO&fontSize=64&fontColor=FFFFFF&animation=fadeIn&desc=CODE%20%C2%B7%20DATA%20%C2%B7%20INTELLIGENCE&descSize=16&descAlignY=65" width="100%" alt="Erick Quio — Code, Data, Intelligence" />
 </p>
 <h1 align="center">Hola, soy Erick Quio 👋</h1>
-<p align="center"><samp>DESARROLLO WEB / DATOS / AUTOMATIZACIÓN / AGENTES DE IA</samp></p>
+<p align="center"><samp>SOFTWARE DEVELOPER / DATOS / AUTOMATIZACIÓN / IA</samp></p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=22D3EE&center=true&vCenter=true&width=800&height=55&lines=Desarrollo+web+con+prop%C3%B3sito;An%C3%A1lisis+de+datos;Automatizaci%C3%B3n+y+agentes+de+IA;Construyendo+soluciones+eficientes" width="800" alt="Desarrollo web con propósito · Análisis de datos · Automatización y agentes de IA · Construyendo soluciones eficientes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=22D3EE&center=true&vCenter=true&width=800&height=55&lines=Desarrollador+de+software;An%C3%A1lisis+de+datos;Automatizaci%C3%B3n+y+agentes+de+IA;Construyendo+soluciones+eficientes" width="800" alt="Desarrollador de software · Análisis de datos · Automatización y agentes de IA · Construyendo soluciones eficientes" />
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/erick-brucely-quio-chavez"><img src="https://img.shields.io/badge/LinkedIn-Contacto-7C3AED?style=flat-square" alt="Contactar en LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/erick-brucely-quio-chavez"><img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/erickbrucelyqc-lgtm/main/linkedin.svg" alt="Contactar en LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:erickbrucelyqc@gmail.com"><img src="https://img.shields.io/badge/Email-Hablemos-22D3EE?style=flat-square&logo=gmail&logoColor=white" alt="Enviar un correo a Erick" /></a>
+  <a href="mailto:erickbrucelyqc@gmail.com"><img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/erickbrucelyqc-lgtm/main/email.svg" alt="Enviar un correo a Erick" /></a>
 </p>
 <p align="center"><strong>Código con propósito. Datos con contexto. Automatización con impacto.</strong></p>
 
@@ -22,7 +24,7 @@
   <tr>
     <td width="62%" valign="top">
       <h3>Conectar ideas con soluciones.</h3>
-      <p>Mi enfoque combina desarrollo web, análisis de datos y automatización. Me interesa convertir procesos complejos en experiencias claras, útiles y mantenibles.</p>
+      <p>Soy desarrollador de software. Mi enfoque conecta programación, análisis de datos, automatización y agentes de IA. Me interesa convertir procesos complejos en experiencias claras, útiles y mantenibles.</p>
       <ul>
         <li>🌐 <strong>Web:</strong> interfaces claras y soluciones orientadas al usuario.</li>
         <li>📊 <strong>Datos:</strong> explorar información y transformarla en decisiones.</li>
@@ -95,14 +97,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/01-WEB-22D3EE?style=for-the-badge&labelColor=161B22" alt="01 — Desarrollo web" />
+      <img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/erickbrucelyqc-lgtm/main/web.svg" alt="01 — Desarrollo web" />
       <h3>Experiencias web</h3>
       <p>Espacio reservado para una aplicación centrada en usabilidad, claridad y una experiencia fluida.</p>
       <p><code>Interfaces</code> <code>Desarrollo web</code></p>
       <p><samp>◌ PRÓXIMAMENTE</samp></p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/02-DATA-A78BFA?style=for-the-badge&labelColor=161B22" alt="02 — Análisis de datos" />
+      <img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/erickbrucelyqc-lgtm/main/data.svg" alt="02 — Análisis de datos" />
       <h3>De datos a decisiones</h3>
       <p>Espacio reservado para explorar datos, visualizar hallazgos y comunicar conclusiones accionables.</p>
       <p><code>Análisis</code> <code>Visualización</code></p>
@@ -111,14 +113,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/03-AUTOMATION-22D3EE?style=for-the-badge&labelColor=161B22" alt="03 — Automatización" />
+      <img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/erickbrucelyqc-lgtm/main/automation.svg" alt="03 — Automatización" />
       <h3>Menos tareas, más valor</h3>
       <p>Espacio reservado para automatizar procesos repetitivos e integrar herramientas en flujos útiles.</p>
       <p><code>Workflows</code> <code>Integraciones</code></p>
       <p><samp>◌ PRÓXIMAMENTE</samp></p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/04-AI%20AGENTS-A78BFA?style=for-the-badge&labelColor=161B22" alt="04 — Agentes de inteligencia artificial" />
+      <img src="https://raw.githubusercontent.com/erickbrucelyqc-lgtm/erickbrucelyqc-lgtm/main/agents.svg" alt="04 — Agentes de inteligencia artificial" />
       <h3>Inteligencia en acción</h3>
       <p>Espacio reservado para explorar agentes de IA que conecten contexto, herramientas y tareas concretas.</p>
       <p><code>Agentes</code> <code>IA aplicada</code></p>
